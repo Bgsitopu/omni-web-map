@@ -1,0 +1,5 @@
+{
+  "name": "OmniHub",
+  "description": "A versatile dashboard with advanced AI search, interactive maps, and real-time data integration.",
+  "requestFramePermissions": ["geolocation"]
+}
